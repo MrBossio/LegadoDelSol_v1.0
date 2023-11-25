@@ -15,4 +15,4 @@ Marco Antonio Bossio Príncipe
 ### Run project. 
 
 ## Instructions for play:
-### Just download the last release in https://drive.google.com/drive/folders/1BWOtmwOJ6vMNUXb7NRaqYuRJ879si0Pg?usp=drive_link
+#### Just download the last release in https://drive.google.com/drive/folders/1BWOtmwOJ6vMNUXb7NRaqYuRJ879si0Pg?usp=drive_link
