@@ -16,3 +16,8 @@ Marco Antonio Bossio Príncipe
 
 ## Instructions for play:
 #### Just download the last release in https://drive.google.com/drive/folders/1BWOtmwOJ6vMNUXb7NRaqYuRJ879si0Pg?usp=drive_link
+
+## Demo video (in spanish)
+<sub>*Middle clic on image to open video in Youtube*</sub>
+[![Watch the video](https://github.com/MrBossio/LegadoDelSol_v1.0/assets/88553229/06b5e61b-b56b-4705-a79c-611f45a35cd5)](https://youtu.be/jbrVcTc-ysk?si=VVInIsHtPSvTL_aL)
+
